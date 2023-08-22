@@ -10,7 +10,7 @@ Algumas das minhas redes sociais e e-mail para contato.
 ## Informações
 User recém criado na plataforma, espero poder crescer permanentemente dentro do ramo. Estou focado em entrar de cabeça no mundo backend focado na linguaguém do Java para diversos produtos.
 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) 	![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedrofromchile&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&hide_title=true&text_color=FFF) 
 
